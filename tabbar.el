@@ -8,7 +8,7 @@
 ;; Keywords: convenience
 ;; Revision: $Id: tabbar.el,v 1.7 2009/03/02 21:02:34 davidswelt Exp $
 
-(defconst tabbar-version "2.0")
+;;(defconst tabbar-version "2.0")
 
 ;; This file is not part of GNU Emacs.
 
